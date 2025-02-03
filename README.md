@@ -6,7 +6,7 @@ ZOOM:
 https://us02web.zoom.us/j/84756207726?pwd=JaJwyIq7cIhX3hNsWvsjLKJ0Fcbv0u.1
 
 Instrutores:
-- Ivanor da Costa Alves - 
+- Ivanir da Costa Alves - 
 - Elo
 
 ## Características
@@ -47,8 +47,6 @@ Os Sistemas Adaptativos Complexos (CAS, do inglês Complex Adaptive Systems) sã
 [Continuar lendo...](./docs/cas.md)
 
 
-Ferramenta:
+---
 
-Plectica
-
-https://draw.io/
+[Próximo passo...Manifesto Ágil](./Aula1%20-%20Scrum/manifesto.md)

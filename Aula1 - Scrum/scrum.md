@@ -1,7 +1,7 @@
 # SCRUM
 
 <div align="center">
-  <img src="../images/scrum-thumb.png">
+  <img src="./images/scrum-thumb.png">
 </div>
 
 ---
@@ -29,6 +29,12 @@ Se quiser saber mais sobre a evolução ou os detalhes do Scrum, posso detalhar 
 O **Scrum** é uma metodologia ágil utilizada para o gerenciamento de projetos, especialmente no desenvolvimento de software, mas também pode ser aplicada em diversas áreas. Ele foca na entrega incremental e contínua de valor, através da colaboração e flexibilidade. O Scrum é estruturado de maneira a promover a adaptação rápida a mudanças e garantir que o produto final seja alinhado com as necessidades do cliente.
 
 ### Principais Componentes do Scrum
+
+<div align="center">
+  <img src="./images/scrum_ciclo.png">
+</div>
+
+--- 
 
 O processo Scrum envolve **papéis**, **artefatos** e **eventos** específicos que ajudam as equipes a organizar e gerenciar o trabalho de forma eficaz. Vamos ver cada um deles em detalhes.
 
@@ -120,4 +126,7 @@ Os eventos Scrum são encontros ou cerimônias regulares que ajudam a equipe a p
 
 O **Scrum** é uma abordagem ágil focada em entregar valor de forma incremental, utilizando uma estrutura que permite adaptação constante, colaboração intensa e foco no cliente. Seu ciclo iterativo, que envolve planejamento, execução, revisão e melhoria contínua, ajuda as equipes a permanecerem produtivas e alinhadas com os objetivos de negócios, garantindo uma evolução constante do produto.
 
-[Reunião do Planejamento](./planejamento.md)
+
+---
+
+[Próximo passo...Planejamento](../Aula1%20-%20Scrum/planejamento.md)

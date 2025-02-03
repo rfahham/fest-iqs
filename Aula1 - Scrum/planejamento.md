@@ -50,4 +50,4 @@ A reunião de planejamento é fundamental para garantir que todos os membros da 
 
 ---
 
-[Formação do Time](time.md)
+[Próximo passo...Time](../Aula1%20-%20Scrum/time.md)

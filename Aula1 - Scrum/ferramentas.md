@@ -89,3 +89,7 @@ Aqui estão algumas das ferramentas mais populares para implementar e gerenciar 
 A escolha da ferramenta de Scrum depende das necessidades e do contexto da equipe. Se a equipe é pequena e está começando com Scrum, ferramentas mais simples como **Trello** ou **Asana** podem ser suficientes. Para equipes maiores ou que precisam de funcionalidades mais avançadas, ferramentas como **Jira**, **VersionOne** ou **Targetprocess** podem ser mais adequadas.
 
 Independentemente da ferramenta escolhida, o importante é que ela ajude a promover a transparência, a colaboração e a entrega contínua de valor, que são os princípios centrais do **Scrum**.
+
+---
+
+[Próximo passo...Prática](../Aula1%20-%20Scrum/pratica.md)

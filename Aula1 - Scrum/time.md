@@ -51,4 +51,6 @@ Embora o Scrum tenha apenas três papéis principais, em algumas organizações 
 ### Conclusão
 A formação do time Scrum é projetada para garantir que a equipe seja autônoma, colaborativa e capaz de entregar valor de forma contínua e incremental. Cada papel no time tem uma função clara, mas a colaboração entre todos os membros é essencial para o sucesso do processo Scrum. Com isso, o Scrum busca promover um ambiente de trabalho dinâmico, flexível e focado no cliente.
 
-[Ferramentas](ferramentas.md)
+---
+
+[Próximo passo...Ferramentas](../Aula1%20-%20Scrum/ferramentas.md)
