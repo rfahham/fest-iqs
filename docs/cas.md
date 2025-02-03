@@ -1,4 +1,5 @@
 # CAS (Sistemas Adaptativos Complexos)
+
 Os **Sistemas Adaptativos Complexos** (CAS, do inglês *Complex Adaptive Systems*) são sistemas formados por várias partes ou agentes que interagem de maneira não linear, gerando comportamentos globais complexos. Esses sistemas têm a capacidade de se adaptar e evoluir em resposta a mudanças no ambiente, ou dentro do próprio sistema. As regras que regem esses sistemas ajudam a entender como eles funcionam e se organizam de maneira emergente. Abaixo, estão quatro princípios centrais que descrevem o comportamento desses sistemas:
 
 ### 1. **Interação Local**
@@ -31,5 +32,3 @@ Os **Sistemas Adaptativos Complexos** (CAS, do inglês *Complex Adaptive Systems
 4. **Auto-organização**: O sistema se organiza espontaneamente através das interações entre os agentes, sem controle central.
 
 Essas regras explicam como os **Sistemas Adaptativos Complexos** funcionam de forma dinâmica e evolutiva, sendo comuns em áreas como ecossistemas, redes sociais, mercados financeiros, inteligência artificial, e até mesmo em organizações humanas.
-
-Caso queira explorar mais sobre algum desses princípios ou como aplicá-los em um contexto específico, me avise!
