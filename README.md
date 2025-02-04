@@ -1,7 +1,3 @@
-Claro! Aqui está uma versão revisada e aprimorada da sua documentação para o **Curso de Introdução à Qualidade de Software (IQS)**. A ideia é tornar a leitura mais fluida, com uma estrutura mais clara e uma linguagem profissional.
-
----
-
 # **Curso de Introdução à Qualidade de Software (IQS)**
 
 ## **Patrocínio**  
