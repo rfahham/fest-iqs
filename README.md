@@ -26,14 +26,14 @@ Instrutores:
 ✅ Aula 3 – Fundamentos de Qualidade de Software
 
 -
--
+- [Questionário](../fest-iqs/Aula3/questionario.md)
 
 ✅ Aula 4 – Técnicas de Testes
 
 -
--
+- [Questionário](../fest-iqs/Aula4/questionario.md)
 
 ✅ Aula 5 – Execução de Testes
 
 -
--
+- [Questionário](../fest-iqs/Aula5/questionario.md)
