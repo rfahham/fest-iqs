@@ -92,4 +92,4 @@ Independentemente da ferramenta escolhida, o importante é que ela ajude a promo
 
 ---
 
-[Próximo passo...Prática](../Aula1%20-%20Scrum/pratica.md)
+[Próximo passo...Prática](./pratica.md)

@@ -53,4 +53,4 @@ A formação do time Scrum é projetada para garantir que a equipe seja autônom
 
 ---
 
-[Próximo passo...Ferramentas](../Aula1%20-%20Scrum/ferramentas.md)
+[Próximo passo...Ferramentas](./ferramentas.md)

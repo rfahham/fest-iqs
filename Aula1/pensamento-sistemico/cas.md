@@ -32,3 +32,5 @@ Os **Sistemas Adaptativos Complexos** (CAS, do inglês *Complex Adaptive Systems
 4. **Auto-organização**: O sistema se organiza espontaneamente através das interações entre os agentes, sem controle central.
 
 Essas regras explicam como os **Sistemas Adaptativos Complexos** funcionam de forma dinâmica e evolutiva, sendo comuns em áreas como ecossistemas, redes sociais, mercados financeiros, inteligência artificial, e até mesmo em organizações humanas.
+
+[Próximo passo... DSRP](dsrp.md)

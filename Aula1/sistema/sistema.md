@@ -20,3 +20,5 @@ Os sistemas podem ser encontrados em diversas áreas do conhecimento e podem var
 - **Ambiente**: O contexto ou fatores externos que afetam o funcionamento do sistema, mas que não fazem parte dele diretamente.
 
 Em resumo, um sistema é um conjunto de partes interligadas que operam de forma coordenada para cumprir um propósito específico, seja em áreas naturais, tecnológicas ou sociais.
+
+[Próximo passo...Exemplos](exemplos.md)

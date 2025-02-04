@@ -59,4 +59,4 @@ Hoje, os princípios do Manifesto Ágil não são aplicáveis apenas ao desenvol
 
 ---
 
-[Próximo passo...SCRUM](../Aula1%20-%20Scrum/scrum.md)
+[Próximo passo...SCRUM](./scrum.md)

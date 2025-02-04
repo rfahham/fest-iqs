@@ -83,3 +83,5 @@ O **Burndown Chart** é uma ferramenta visual que mostra a quantidade de trabalh
 
 ### Conclusão:
 Esse documento serve como um guia para aplicar o Scrum no desenvolvimento de uma página web com HTML, CSS e JavaScript. Ele inclui o **Product Backlog**, o **Sprint Backlog**, a **Definição de "Pronto"**, e as principais reuniões do Scrum, proporcionando um ambiente organizado e ágil para o trabalho da equipe. Ao seguir essas práticas, você poderá garantir que o desenvolvimento do seu projeto seja bem-sucedido e com a entrega contínua de valor ao cliente.
+
+[Artigo...](falhar-com-agil.md) 

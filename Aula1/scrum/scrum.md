@@ -129,4 +129,4 @@ O **Scrum** é uma abordagem ágil focada em entregar valor de forma incremental
 
 ---
 
-[Próximo passo...Planejamento](../Aula1%20-%20Scrum/planejamento.md)
+[Próximo passo...Planejamento](planejamento.md)

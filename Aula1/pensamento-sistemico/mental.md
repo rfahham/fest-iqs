@@ -75,3 +75,6 @@
 ### Conclusão:
 
 **Modelos Mentais**, **Informação** e **Estrutura** são conceitos interdependentes que são cruciais para o processamento de dados, a formação de conhecimento e a tomada de decisões. Modelos mentais dependem da informação que obtemos e da estrutura que utilizamos para organizá-la, tanto no nível cognitivo quanto no nível organizacional. Compreender como esses três conceitos interagem pode melhorar nossa capacidade de pensar de maneira mais eficaz, organizar nosso conhecimento e agir de maneira mais inteligente.
+
+
+[Próximo passo... Conhecendo CAS DSRP](cas.md)
