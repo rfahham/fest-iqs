@@ -2,6 +2,6 @@
 
 🎥 Gravações:
 
-Manhã: 
+Manhã: https://www.youtube.com/watch?v=9OCkKVHa0Po
 
-Tarde: 
+Tarde: https://www.youtube.com/watch?v=BvdKlVuGTlc

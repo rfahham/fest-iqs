@@ -1,5 +1,10 @@
 # Modelo DSRP
 
+<div align="center">
+  <img src="./images/dsrp.png">
+</div>
+
+
 O **DSRP** é um modelo de pensamento sistêmico desenvolvido por **Diana Whitney** e **Jim Oschman**, que busca estruturar e organizar a maneira como pensamos sobre sistemas e problemas complexos. DSRP é um acrônimo que se refere a quatro processos cognitivos principais que ajudam a organizar o pensamento:
 
 1. **Distinções (Distinctions)**: Refere-se ao processo de identificar e diferenciar partes de um sistema ou problema. Quando aplicamos distinções, estamos separando elementos ou conceitos para compreendê-los melhor. Esse processo permite identificar o que faz parte de um sistema, o que está fora dele e qual a sua relevância.

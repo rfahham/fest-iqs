@@ -16,11 +16,13 @@ Instrutores:
 - [Pensamento Sistêmico](./Aula1/pensamento-sistemico/fundamentos.md)
 - [Sistemas](./Aula1/sistema/sistema.md)
 - [Scrum](./Aula1/scrum/scrum.md)
+- [Modelo mental da aula de pensamento sistêmico](https://beta.plectica.com/maps/SQBCSC3W5)
 - [Questionário](./Aula1/questionario.md)
 
 ✅ Aula 2 – Construindo com Qualidade
 
-- 
+- [Qualidade](./Aula2/construindo-qualidade/construindo.md)
+- [Modelo mental da aula de construindo com qualidade]( https://beta.plectica.com/maps/29LQ58DX0)
 - [Questionário](./Aula2/questionario.md)
 
 ✅ Aula 3 – Fundamentos de Qualidade de Software
