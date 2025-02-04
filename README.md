@@ -15,7 +15,7 @@ Instrutores:
 
 - [Pensamento Sistêmico](./Aula1/pensamento-sistemico/fundamentos.md)
 - [Sistemas](./Aula1/sistema/sistema.md)
-- [Scrum](.Aula1/scrum/scrum.md)
+- [Scrum](./Aula1/scrum/scrum.md)
 - [Questionário](./Aula1/questionario.md)
 
 ✅ Aula 2 – Construindo com Qualidade
