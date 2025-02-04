@@ -1,4 +1,4 @@
-# Modelos Mentais
+# Modelo Mental
 
 **Modelos Mentais**, **Informação** e **Estrutura** são conceitos amplamente discutidos no contexto de ciência cognitiva, psicologia e teoria dos sistemas. Esses termos estão profundamente interligados, pois, juntos, eles ajudam a entender como as pessoas interpretam o mundo ao seu redor, como organizam o conhecimento e como tomam decisões.
 

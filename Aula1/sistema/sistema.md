@@ -21,4 +21,4 @@ Os sistemas podem ser encontrados em diversas áreas do conhecimento e podem var
 
 Em resumo, um sistema é um conjunto de partes interligadas que operam de forma coordenada para cumprir um propósito específico, seja em áreas naturais, tecnológicas ou sociais.
 
-[Próximo passo...Exemplos](exemplos.md)
+[Exemplos](exemplos.md)
