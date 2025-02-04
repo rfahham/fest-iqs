@@ -13,27 +13,27 @@ Instrutores:
 
 ✅ Aula 1
 
-- [Pensamento Sistêmico](../fest-iqs/Aula1/pensamento-sistemico/fundamentos.md)
-- [Sistemas](../fest-iqs/Aula1/sistema/sistema.md)
+- [Pensamento Sistêmico](./Aula1/pensamento-sistemico/fundamentos.md)
+- [Sistemas](./Aula1/sistema/sistema.md)
 - [Scrum](../fest-iqs/Aula1/scrum/scrum.md)
-- [Questionário](../fest-iqs/Aula1/questionario.md)
+- [Questionário](./Aula1/questionario.md)
 
 ✅ Aula 2 – Construindo com Qualidade
 
 - 
-- [Questionário](../fest-iqs/Aula2/questionario.md)
+- [Questionário](./Aula2/questionario.md)
 
 ✅ Aula 3 – Fundamentos de Qualidade de Software
 
 -
-- [Questionário](../fest-iqs/Aula3/questionario.md)
+- [Questionário](./Aula3/questionario.md)
 
 ✅ Aula 4 – Técnicas de Testes
 
 -
-- [Questionário](../fest-iqs/Aula4/questionario.md)
+- [Questionário](./Aula4/questionario.md)
 
 ✅ Aula 5 – Execução de Testes
 
 -
-- [Questionário](../fest-iqs/Aula5/questionario.md)
+- [Questionário](./Aula5/questionario.md)
