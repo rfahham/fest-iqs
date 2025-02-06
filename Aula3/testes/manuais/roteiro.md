@@ -168,4 +168,4 @@ Testar a funcionalidade e a usabilidade da página de login de uma aplicação w
 
 ---
 
-Este roteiro cobre diversos aspectos essenciais para garantir que a página de login funcione de maneira adequada. Se você precisar de mais casos de teste ou detalhes, é só avisar!
+Este roteiro cobre diversos aspectos essenciais para garantir que a página de login funcione de maneira adequada.
