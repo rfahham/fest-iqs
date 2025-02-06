@@ -35,3 +35,5 @@ Os **testes automatizados** envolvem o uso de ferramentas e scripts para executa
 - **Limitado para Testes Exploratórios**: Testes automatizados são eficazes para verificar comportamentos repetitivos e bem definidos, mas não conseguem cobrir aspectos subjetivos como a usabilidade ou explorar o software de maneira criativa.
 
 Em resumo, os **testes automatizados** são uma ferramenta poderosa para melhorar a eficiência e a cobertura dos testes, sendo particularmente valiosos em ambientes de desenvolvimento ágeis e em projetos que exigem testes repetitivos, rápidos e consistentes.
+
+[Próximo passo... Os testes](../Aula3/testes/automatizados/roteiro.md)

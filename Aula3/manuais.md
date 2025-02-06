@@ -22,3 +22,5 @@ Os **testes manuais** são realizados por testadores que executam as etapas de t
 - **Escalabilidade Limitada**: Para testes de grandes volumes ou complexidade elevada, o teste manual se torna difícil de escalar.
 
 Embora os testes automatizados sejam amplamente utilizados em muitas situações, os testes manuais ainda são indispensáveis para uma avaliação mais detalhada e centrada no usuário, especialmente em fases iniciais ou para cenários específicos de uso.
+
+[Próximo passo... Os testes](../Aula3/testes/manuais/roteiro.md)
