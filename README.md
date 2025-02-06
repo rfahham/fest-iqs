@@ -7,7 +7,11 @@
 
 ## **Instrutores**  
 - **Ivanir da Costa Alves**  
-- **Elo**
+- **Roger Neves Alves - https://www.linkedin.com/in/roger-neves-alves/**
+- **Roberta de Carvalho - https://www.linkedin.com/in/roberta-bastos-jesus/**
+- **Mariana de Carvalho - https://www.linkedin.com/in/mariana-de-carvalho-alves-4a842a207/**
+- **Agata**
+
 
 ---
 
