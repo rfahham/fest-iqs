@@ -67,4 +67,3 @@ https://planningpokeronline.com/
 Planning Poker é uma técnica amplamente utilizada em metodologias ágeis, como o Scrum, para estimar o esforço necessário para realizar tarefas ou desenvolver funcionalidades dentro de um projeto de software. O objetivo principal dessa técnica é obter uma estimativa colaborativa e consensual sobre o tamanho ou complexidade das histórias de usuário ou tarefas.
 
 [Saiba mais](./planningpower.md)
-
