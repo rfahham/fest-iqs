@@ -1,5 +1,9 @@
 # **Curso de Introdução à Qualidade de Software (IQS)**
 
+<div align="center">
+    <img src="./images/fest.jpg">
+</div>
+
 ## **Patrocínio**  
 **T2M** e **FEST** (Fábrica Escola de Software e Teste)
 
