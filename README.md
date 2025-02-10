@@ -4,9 +4,6 @@
     <img src="./images/fest.jpg">
 </div>
 
-## **Patrocínio**  
-**T2M** e **FEST** (Fábrica Escola de Software e Teste)
-
 ---
 
 ## **Instrutores**  
@@ -19,9 +16,9 @@
 
 ---
 
-## **Canal de Aulas**  
-Acesse as aulas ao vivo e interativas no Zoom:  
-[**Link do Zoom**](https://us02web.zoom.us/j/84756207726?pwd=JaJwyIq7cIhX3hNsWvsjLKJ0Fcbv0u.1)
+## **Canal de Aulas - Youtube**  
+https://www.youtube.com/watch?v=2d4nrYb1JUs&list=PLnPk8A-3NzmymLuPgoyXo0r6WbVka4sHV
+
 
 ---
 
@@ -46,48 +43,55 @@ Acesse as aulas ao vivo e interativas no Zoom:
 ---
 
 ### 📅 **Aula 3 - Fundamentos de Qualidade de Software**
+- [**Fundamentos de Qualidade de Software**](./Aula3/fundamentos.md)
 - [**Vídeos Complementares**](./Aula3/videos/videos.md)
 - [**Questionário da Aula 3**](./Aula3/questionario.md)
 
 ---
 
 ### 📅 **Aula 4 - Técnicas de Testes**
+- [**Técnicas de Testes**](./Aula4/tecnicas.md)
 - [**Vídeos Complementares**](./Aula4/videos/videos.md)
 - [**Questionário da Aula 4**](./Aula4/questionario.md)
 
 ---
 
 ### 📅 **Aula 5 - Execução de Testes**
+- [**Execução de Testes**](./Aula5/execucao.md)
 - [**Vídeos Complementares**](./Aula5/videos/videos.md)
 - [**Questionário da Aula 5**](./Aula5/questionario.md)
 
 ---
 
 ### 📅 **Aula 6 - Gestão de requisitos**
+- [**Gestão de requisitos**](./Aula6/gestao-requisitos.md)
 - [**Vídeos Complementares**](./Aula6/videos/videos.md)
 - [**Questionário da Aula 5**](./Aula6/questionario.md)
 
 ---
 
 ### 📅 **Aula 7 - BDD X TDD**
+- [**BDD X TDD**](./Aula7/)
 - [**Vídeos Complementares**](./Aula7/videos/videos.md)
 - [**Questionário da Aula 5**](./Aula7/questionario.md)
 
 ---
 
 ### 📅 **Aula 8 - Criando cenários de testes**
+- [**Criando cenários de testes**](./Aula8/)
 - [**Vídeos Complementares**](./Aula8/videos/videos.md)
 - [**Questionário da Aula 5**](./Aula8/questionario.md)
 
 ---
 
 ### 📅 **Aula 9 - Configuração de API de forma manual**
+- [**Configuração de API de forma manual**](./Aula9/)
 - [**Vídeos Complementares**](./Aula9/videos/videos.md)
 - [**Questionário da Aula 5**](./Aula9/questionario.md)
 
 ---
 
-### 📅 **Aula 10 - **
+### 📅 **Aula 10 - SURPRESA**
 - [**Vídeos Complementares**](./Aula10/videos/videos.md)
 - [**Questionário da Aula 5**](./Aula10/questionario.md)
 
@@ -99,10 +103,6 @@ Acesse as aulas ao vivo e interativas no Zoom:
 - Os **vídeos complementares** oferecem uma compreensão mais detalhada dos temas discutidos nas aulas.
 
 ---
-
-
-https://us02web.zoom.us/j/84756207726pwd=JaJwyIq7cIhX3hNsWvsjLKJ0Fcbv0u.1
-
 
 
 ✅

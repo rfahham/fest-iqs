@@ -51,3 +51,5 @@ A diferença entre **requisitos** e **hipóteses** está principalmente na **nat
 - **Hipóteses** são suposições sobre o que pode ser verdade, que **precisam ser testadas** e validadas ao longo do processo.
 
 Ambos são fundamentais para um bom projeto, mas enquanto os requisitos orientam o **que** deve ser feito, as hipóteses guiam o **como** e ajudam a testar suposições durante o processo de desenvolvimento.
+
+[Próximo passo... SCRUM](scrum.md)
