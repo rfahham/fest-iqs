@@ -10,7 +10,7 @@
 - **Roger Neves Alves - https://www.linkedin.com/in/roger-neves-alves/**
 - **Roberta de Carvalho - https://www.linkedin.com/in/roberta-bastos-jesus/**
 - **Mariana de Carvalho - https://www.linkedin.com/in/mariana-de-carvalho-alves-4a842a207/**
-- **Agata**
+- **Agata Carvalhos - https://www.linkedin.com/in/agatha-carvalhos/**
 
 
 ---
@@ -59,8 +59,49 @@ Acesse as aulas ao vivo e interativas no Zoom:
 
 ---
 
+### 📅 **Aula 6 - Gestão de requisitos**
+- [**Vídeos Complementares**](./Aula6/videos/videos.md)
+- [**Questionário da Aula 5**](./Aula6/questionario.md)
+
+---
+
+### 📅 **Aula 7 - BDD X TDD**
+- [**Vídeos Complementares**](./Aula7/videos/videos.md)
+- [**Questionário da Aula 5**](./Aula7/questionario.md)
+
+---
+
+### 📅 **Aula 8 - Criando cenários de testes**
+- [**Vídeos Complementares**](./Aula8/videos/videos.md)
+- [**Questionário da Aula 5**](./Aula8/questionario.md)
+
+---
+
+### 📅 **Aula 9 - Configuração de API de forma manual**
+- [**Vídeos Complementares**](./Aula9/videos/videos.md)
+- [**Questionário da Aula 5**](./Aula9/questionario.md)
+
+---
+
+### 📅 **Aula 10 - **
+- [**Vídeos Complementares**](./Aula10/videos/videos.md)
+- [**Questionário da Aula 5**](./Aula10/questionario.md)
+
+
+---
+
 ## **Observações**
 - O **questionário** de cada aula é uma ferramenta importante para fixação do conteúdo.
 - Os **vídeos complementares** oferecem uma compreensão mais detalhada dos temas discutidos nas aulas.
 
 ---
+
+
+https://us02web.zoom.us/j/84756207726pwd=JaJwyIq7cIhX3hNsWvsjLKJ0Fcbv0u.1
+
+
+
+✅
+
+
+
