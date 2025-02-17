@@ -107,30 +107,35 @@ https://www.youtube.com/watch?v=2d4nrYb1JUs&list=PLnPk8A-3NzmymLuPgoyXo0r6WbVka4
 ---
 
 ### 📅 **Aula 11 - Lógica de Programação**
+- [**Fundamentos**](./semana3/Aula11/logica.md)
 - [**Vídeos Complementares**](./semana3/Aula11/videos/videos.md)
 - [**Questionário da Aula 11**](./semana3/Aula11/questionario.md)
 
 ---
 
-### 📅 **Aula 12 - Teste de front-end **
+### 📅 **Aula 12 - Teste de front-end**
+- [** **](./semana3/Aula11/)
 - [**Vídeos Complementares**](./semana3/Aula12/videos/videos.md)
 - [**Questionário da Aula 12**](./semana3/Aula12/questionario.md)
 
 ---
 
 ### 📅 **Aula 13 - Teste de API automatizado **
+- [** **](./semana3/Aula11/)
 - [**Vídeos Complementares**](./semana3/Aula13/videos/videos.md)
 - [**Questionário da Aula 13**](./semana3/Aula13/questionario.md)
 
 ---
 
 ### 📅 **Aula 14 - Testes de Performance **
+- [** **](./semana3/Aula11/)
 - [**Vídeos Complementares**](./semana3/Aula14/videos/videos.md)
 - [**Questionário da Aula 14**](./semana3/Aula14/questionario.md)
 
 ---
 
 ### 📅 **Aula 15 - Surpresa **
+- [** **](./semana3/Aula11/)
 - [**Vídeos Complementares**](./semana3/Aula15/videos/videos.md)
 - [**Questionário da Aula 15**](./semana3/Aula15/questionario.md)
 
