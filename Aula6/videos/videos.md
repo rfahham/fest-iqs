@@ -1,5 +1,0 @@
-# Vídeos
-
-Manhã: 
-
-Tarde: 
