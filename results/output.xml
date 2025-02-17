@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.0.1 (Python 3.10.12 on linux)" generated="2025-02-17T15:22:59.450959" rpa="true" schemaversion="5">
+<suite id="s1" name="Fest-Iqs" source="/home/rfahham/projetos/fest-iqs">
+<suite id="s1-s1" name="Semana3" source="/home/rfahham/projetos/fest-iqs/semana3">
+<suite id="s1-s1-s1" name="Aula13" source="/home/rfahham/projetos/fest-iqs/semana3/Aula13">
+<suite id="s1-s1-s1-s1" name="Operadores" source="/home/rfahham/projetos/fest-iqs/semana3/Aula13/operadores.robot">
+<test id="s1-s1-s1-s1-t1" name="Teste" line="15">
+<kw name="Log To Console" owner="BuiltIn">
+<arg>${NOME} ${SOBRENOME}, ${IDADE} anos, ${PESO} quilos, ${ALTURA} m, ${ESTADO_CIVIL}</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2025-02-17T15:22:59.491374" elapsed="0.000988"/>
+</kw>
+<kw name="Log To Console" owner="BuiltIn">
+<arg>Soma ${2 + 4}</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2025-02-17T15:22:59.493328" elapsed="0.002386"/>
+</kw>
+<kw name="Log To Console" owner="BuiltIn">
+<arg>Soma ${${VALOR1} + ${VALOR2}}</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2025-02-17T15:22:59.496103" elapsed="0.001162"/>
+</kw>
+<kw name="Log To Console" owner="BuiltIn">
+<arg>Subtração ${2 - 4}</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2025-02-17T15:22:59.497813" elapsed="0.001347"/>
+</kw>
+<kw name="Log To Console" owner="BuiltIn">
+<arg>Multiplicação ${2 * 4}</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2025-02-17T15:22:59.499573" elapsed="0.000938"/>
+</kw>
+<kw name="Log To Console" owner="BuiltIn">
+<arg>Divisão ${2 / 4}</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2025-02-17T15:22:59.500844" elapsed="0.001444"/>
+</kw>
+<kw name="Log To Console" owner="BuiltIn">
+<arg>Potência ${2 ** 4}</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2025-02-17T15:22:59.502732" elapsed="0.001146"/>
+</kw>
+<kw name="Log To Console" owner="BuiltIn">
+<arg>Resto ${2 % 4}</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2025-02-17T15:22:59.504209" elapsed="0.000899"/>
+</kw>
+<kw name="Log To Console" owner="BuiltIn">
+<arg>Raiz quadrada ${2 ** 0.5}</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2025-02-17T15:22:59.505421" elapsed="0.001118"/>
+</kw>
+<kw name="Log To Console" owner="BuiltIn">
+<arg>Raiz cúbica ${2 ** (1/3)}</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2025-02-17T15:22:59.506957" elapsed="0.001145"/>
+</kw>
+<status status="PASS" start="2025-02-17T15:22:59.490192" elapsed="0.018426"/>
+</test>
+<status status="PASS" start="2025-02-17T15:22:59.485573" elapsed="0.024916"/>
+</suite>
+<status status="PASS" start="2025-02-17T15:22:59.482625" elapsed="0.030563"/>
+</suite>
+<status status="PASS" start="2025-02-17T15:22:59.480075" elapsed="0.035355"/>
+</suite>
+<status status="PASS" start="2025-02-17T15:22:59.454314" elapsed="0.062572"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tasks</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Fest-Iqs">Fest-Iqs</stat>
+<stat pass="1" fail="0" skip="0" id="s1-s1" name="Semana3">Fest-Iqs.Semana3</stat>
+<stat pass="1" fail="0" skip="0" id="s1-s1-s1" name="Aula13">Fest-Iqs.Semana3.Aula13</stat>
+<stat pass="1" fail="0" skip="0" id="s1-s1-s1-s1" name="Operadores">Fest-Iqs.Semana3.Aula13.Operadores</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
