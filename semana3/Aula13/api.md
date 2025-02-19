@@ -1,7 +1,10 @@
 # Teste de API automatizado
 
-## Ferramenta
-ROBOT FRAMEWORK
+## Ferramentas
+
+- ROBOT FRAMEWORK
+- https://jsonpath.com/
+- https://transform.tools/json-to-json-schema
 
 ## Instalano dependências
 
@@ -31,3 +34,6 @@ https://transform.tools/json-to-json-schema
 
 
 
+
+
+https://obsidian.md/download
