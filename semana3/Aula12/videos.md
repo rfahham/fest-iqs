@@ -1,5 +1,5 @@
 # Vídeos
 
-Manhã: https://youtu.be/6Dl4pqVnT2c
+Manhã: https://www.youtube.com/watch?v=oFa6_OjH8TU
 
-Tarde: https://youtu.be/HITYx8vTnN
+Tarde: 

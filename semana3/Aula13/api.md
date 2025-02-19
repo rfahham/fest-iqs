@@ -6,7 +6,7 @@ ROBOT FRAMEWORK
 ## Instalano dependências
 
 ```bash
-pip install robotframework-requests==0.9.7 robotframework-jsonlibrary==0.5
+pip install robotframework-jsonlibrary==0.5
 ```
 
 ## Listando as dependências
